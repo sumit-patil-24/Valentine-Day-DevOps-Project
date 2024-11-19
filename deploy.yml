@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: sumit202/valentine:v2
+        image: sumit202/valentine:v1
         ports:
         - containerPort: 80
 
