@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: valentine-app
-        image: ghcr.io/sumit202/valentine:v1
+        image: ghcr.io/sumit-patil-24/Valentine-Day-DevOps-Project:sha-9ef011ea9c9bf86e6fb4ea5a5c9c428843155d2e
         ports:
         - containerPort: 80
 
